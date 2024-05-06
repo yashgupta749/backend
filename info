@@ -1,0 +1,10 @@
+npm init used to ki ek application ko initiated kr dena 
+npm init -y also used to initiated and all values ko yes kr do 
+
+one major problem ki ham code me jb bhi chnages krenge to hame restart krna apdega server ko 
+
+
+simple jb ham deply krte hai to kuch dta like port address unko sequre rakhna hota hai so uske liye ham ek file dalte hai which is .env
+
+
+
